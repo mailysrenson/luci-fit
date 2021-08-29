@@ -28,6 +28,14 @@ gem 'devise'
 # Active Admin
 gem 'activeadmin'
 
+# Bootstrap
+gem 'bootstrap', '~> 5.1.0'
+# Bootstrap might require jquery-rails
+gem 'jquery-rails'
+
+# Simple Form
+gem 'simple_form'
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
